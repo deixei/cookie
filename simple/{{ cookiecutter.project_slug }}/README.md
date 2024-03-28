@@ -1,3 +1,3 @@
-# this is the simplest 
+# this is the simplest
 
 template for {{ cookiecutter.project_slug }}
